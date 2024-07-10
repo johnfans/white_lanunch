@@ -1,0 +1,3 @@
+*.pkf linguist-language=Python
+*.wav linguist-language=Python
+*.mp3 linguist-language=Python
